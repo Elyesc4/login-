@@ -43,7 +43,7 @@ age = user.age()
 
 cnx = mysql.connector.connect(
     user='root',
-    password='Funnie2711',
+    password='Password',
     host='localhost',
     database="mydatabase"
 )
